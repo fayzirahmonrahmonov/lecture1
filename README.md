@@ -1,4 +1,4 @@
-![image](https://github.com/fayzirahmonrahmonov/lecture1/assets/133873684/26f2bc72-6e80-4934-b9cc-93337a5e7182)![image](https://github.com/fayzirahmonrahmonov/lecture1/assets/133873684/8ca01670-7e0d-4e1d-8ba1-426fbf385cec)# Lecture1
+# Lecture1
 - You can run JavaScript in several ways:
   
     Using console tab of web browsers

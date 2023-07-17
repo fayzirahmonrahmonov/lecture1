@@ -18,6 +18,10 @@
 # Ternary operator
 # Condition ? True : False
 
+# Switch 
+![image](https://github.com/fayzirahmonrahmonov/lecture1/assets/133873684/77c2614d-1eaa-4715-9cf9-f608c4504b51)
+
+
 
 
 

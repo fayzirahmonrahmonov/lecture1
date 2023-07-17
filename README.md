@@ -27,10 +27,12 @@
 
 - Function Expression
   
-       The main difference between a function expression and a function declaration is the function name, which can be omitted in function              expressions to create anonymous and arrow functions.
+       The main difference between a function expression and a function declaration is the function name,
+       which can be omitted in function expressions to create anonymous and arrow functions.
 - Function IIFE
 
-      An IIFE (Immediately Invoked Function Expression) is a function that runs the moment it is invoked or called in the JavaScript event loop.
+      An IIFE (Immediately Invoked Function Expression) is a function that runs the moment it is invoked or
+       called in the JavaScript event loop.
 
 
 

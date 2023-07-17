@@ -15,6 +15,9 @@
 
 ![image](https://github.com/fayzirahmonrahmonov/lecture1/assets/133873684/ba0c06b1-2479-4493-adcf-43b5d0d9b732)
 
+# Ternary operator
+# Condition ? True : False
+
 
 
 

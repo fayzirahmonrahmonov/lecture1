@@ -5,10 +5,11 @@
     Using Node.js
     By creating web pages
 
-  - What is Node ?
+- What is Node ?
 
-        Node is a back-end environment for executing JavaScript code.
+      Node is a back-end environment for executing JavaScript code.
 
-    ![Uploading image.png…]()
+![image](https://github.com/fayzirahmonrahmonov/lecture1/assets/133873684/70d25fab-03b5-4d6c-86cd-a306a5e2b2b9)
+
 
   
